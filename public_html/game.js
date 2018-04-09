@@ -7,7 +7,7 @@ var ballSpeedX = 14;
 var ballSpeedY = 4;
 
 var framesPerSecond = 50;
-var frequency = 1000/framesPerSecond;
+var frequency = 1000 / framesPerSecond;
 
 const PADDLE_WIDTH = 8;
 const PADDLE_HEIGHT = 100;
